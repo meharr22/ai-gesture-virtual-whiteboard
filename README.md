@@ -1,24 +1,23 @@
-# 🧠 AI Gesture-Controlled Virtual Whiteboard
-
-🚀 What if you could draw on your screen… without touching it?
+#  AI Gesture-Controlled Virtual Whiteboard
+ What if you could draw on your screen… without touching it?
 
 This project is a **Computer Vision-based Virtual Whiteboard** that allows users to draw in real time using **hand gestures** captured via a webcam.
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✋ Draw using index finger
-- 🧽 Erase using 3-finger gesture
-- 🎨 Dynamic color palette (choose any color)
-- ⚡ Real-time hand tracking using MediaPipe
-- 🎯 Smooth drawing with interpolation
-- 💾 Save drawings as image (press `S`)
-- 🧠 Fully touchless interaction (draw, erase, clear)
+-  Draw using index finger
+-  Erase using 3-finger gesture
+-  Dynamic color palette (choose any color)
+-  Real-time hand tracking using MediaPipe
+-  Smooth drawing with interpolation
+-  Save drawings as image (press `S`)
+-  Fully touchless interaction (draw, erase, clear)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - OpenCV
@@ -27,7 +26,7 @@ This project is a **Computer Vision-based Virtual Whiteboard** that allows users
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. Webcam captures real-time video
 2. MediaPipe detects 21 hand landmarks
@@ -37,7 +36,7 @@ This project is a **Computer Vision-based Virtual Whiteboard** that allows users
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Clone the repository
 
